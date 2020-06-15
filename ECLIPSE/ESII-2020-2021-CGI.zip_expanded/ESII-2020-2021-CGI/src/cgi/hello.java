@@ -5,6 +5,7 @@ class hello
 {
   public static void main( String args[] )
   {
+	  
       //  Here is a minimalistic CGI program that uses cgi_lib
       //  Print the required CGI header.
       System.out.println(cgi_lib.Header());
